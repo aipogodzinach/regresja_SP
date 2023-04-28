@@ -1,5 +1,2 @@
-keras
-sklearn
-matplotlib
-seaborn
+scikit-learn
 streamlit
